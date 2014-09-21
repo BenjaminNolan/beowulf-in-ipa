@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<speak version="1.1"
+       xmlns="http://www.w3.org/2001/10/synthesis"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.w3.org/2001/10/synthesis
+                 http://www.w3.org/TR/speech-synthesis11/synthesis.xsd"
+       xml:lang="ang">
+    <!--
+      - This isn't marked up in the most traditional of senses. A 'paragraph'
+      - is a chunk of lines (usually about 20 or so) from the Klaeber edition
+      - of the original text of Beowulf, and a 'sentence' is each individual
+      - line. The rest of it is broken down pretty much the way you'd expect.
+      - We may change this in later versions, but for now mirroring the
+      - structure of the source text is probably the best plan.
+      -->
+    <p>
+        <s>
+            <phoneme alphabet="ipa" ph="hwæt">HWÆT</phoneme>,
+            <phoneme alphabet="ipa" ph="we">WE</phoneme>
+            <phoneme alphabet="ipa" ph="ˈɡɑːrˌdenɑ">GAR-DEna</phoneme>
+            <phoneme alphabet="ipa" ph="in">in</phoneme>
+            <phoneme alphabet="ipa" ph="ˈjæːɑrdɑɣum">geardagum</phoneme>,
+        </s>
+        <s>
+            <phoneme alphabet="ipa" ph="ˈðeːodˌkyniŋɡɑ">þeodcyninga</phoneme>,
+            <phoneme alphabet="ipa" ph="θrymː">þrym</phoneme>
+            <phoneme alphabet="ipa" ph="jeˈfruːnon">gefrunon</phoneme>,
+        </s>
+        <s>
+            <phoneme alphabet="ipa" ph="huː">hu</phoneme>,
+            <phoneme alphabet="ipa" ph="ðɑ">ða</phoneme>
+            <phoneme alphabet="ipa" ph="æðelɪŋɡɑs">æþelingas</phoneme>
+            <phoneme alphabet="ipa" ph="ˈelːen">ellen</phoneme>
+            <phoneme alphabet="ipa" ph="ˈfremːedon">fremedon</phoneme>!
+        </s>
+        <s>
+            <phoneme alphabet="ipa" ph="oft">oft</phoneme>
+            <phoneme alphabet="ipa" ph="ʃyld">Scyld</phoneme>
+            <phoneme alphabet="ipa" ph="ʃefiŋ">Scefing</phoneme>
+            <phoneme alphabet="ipa" ph="ˈʃæɑðenɑ">sceaþena</phoneme>
+            <phoneme alphabet="ipa" ph="θræːɑtum">þreatum</phoneme>,
+        </s>
+        <s>
+            <phoneme alphabet="ipa" ph="ˈmɑniɣum">monegum</phoneme>
+            <phoneme alphabet="ipa" ph="mæjθum">mægþum</phoneme>
+            <phoneme alphabet="ipa" ph="ˈmeːodusetlə">meodosetla</phoneme>
+            <phoneme alphabet="ipa" ph="ovˈtæːax">ofteah</phoneme>,
+        </s>
+        <s>
+            <phoneme alphabet="ipa" ph="ˈejzudə">egsode</phoneme>
+            <phoneme alphabet="ipa" ph="eːorɑs">eorlas</phoneme>,
+            <phoneme alphabet="ipa" ph="syðːɑnærest">syððanærest</phoneme>
+            <phoneme alphabet="ipa" ph="wæːɑrð">wearð</phoneme>
+        </s>
+        <s>
+            <phoneme alphabet="ipa" ph="fæːɑʃæːɑft">feasceaft</phoneme>
+            <phoneme alphabet="ipa" ph="ˈfundɑn">funden</phoneme>;
+            <phoneme alphabet="ipa" ph="heː">he</phoneme>
+            <phoneme alphabet="ipa" ph="θæs">þæs</phoneme>
+            <phoneme alphabet="ipa" ph="frofrə">frofre</phoneme>
+            <phoneme alphabet="ipa" ph="xəbɑd">gebad</phoneme>,
+        </s>
+        <s>
+            <phoneme alphabet="ipa" ph="weoks">weox</phoneme>
+            <phoneme alphabet="ipa" ph="untər">under</phoneme>;
+            <phoneme alphabet="ipa" ph="ˈwolknum">wolcnum</phoneme>
+            <phoneme alphabet="ipa" ph="wəorðmyndum">weorðmyndum</phoneme>
+            <phoneme alphabet="ipa" ph="θɑː">þah</phoneme>,
+        </s>
+        <s>
+            <phoneme alphabet="ipa" ph="oð">oð</phoneme>
+            <phoneme alphabet="ipa" ph="θæt">þæt</phoneme>;
+            <phoneme alphabet="ipa" ph="him">him</phoneme>
+            <phoneme alphabet="ipa" ph="æːxylk">æghwylc</phoneme>
+            <phoneme alphabet="ipa" ph="ymbsittəndrə">ymbsittendra</phoneme>,
+        </s>
+        <s>
+            <phoneme alphabet="ipa" ph="ofər">ofer</phoneme>
+            <phoneme alphabet="ipa" ph="hronræːdə">hronrade</phoneme>
+            <phoneme alphabet="ipa" ph="hyræn">hyran</phoneme>
+            <phoneme alphabet="ipa" ph="ʃoldə">scolde</phoneme>,
+        </s>
+        <s>
+            <phoneme alphabet="ipa" ph="gombən">gomban</phoneme>
+            <phoneme alphabet="ipa" ph="ɣuldən">gyldan</phoneme>;
+            <phoneme alphabet="ipa" ph="ðæt">þæt</phoneme>
+            <phoneme alphabet="ipa" ph="θæs">wæs</phoneme>
+            <phoneme alphabet="ipa" ph="got">god</phoneme>
+            <phoneme alphabet="ipa" ph="kyniŋɡ">cyning</phoneme>!
+        </s>
+    </p>
+</speak>
